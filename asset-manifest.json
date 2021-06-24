@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c36593fd.chunk.css",
+    "main.js": "/static/js/main.369f9ddb.chunk.js",
+    "main.js.map": "/static/js/main.369f9ddb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca34c4b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca34c4b5.js.map",
+    "static/js/2.f9c63f5c.chunk.js": "/static/js/2.f9c63f5c.chunk.js",
+    "static/js/2.f9c63f5c.chunk.js.map": "/static/js/2.f9c63f5c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c36593fd.chunk.css.map": "/static/css/main.c36593fd.chunk.css.map",
+    "static/js/2.f9c63f5c.chunk.js.LICENSE.txt": "/static/js/2.f9c63f5c.chunk.js.LICENSE.txt",
+    "static/media/HeaderImg.5c51f3e0.jpg": "/static/media/HeaderImg.5c51f3e0.jpg",
+    "static/media/NonVegPizza1.903e7ed8.jpg": "/static/media/NonVegPizza1.903e7ed8.jpg",
+    "static/media/NonVegPizza2.88a72122.jpg": "/static/media/NonVegPizza2.88a72122.jpg",
+    "static/media/NonVegPizza3.6381f664.jpg": "/static/media/NonVegPizza3.6381f664.jpg",
+    "static/media/NonVegPizza4.c028a5c4.jpg": "/static/media/NonVegPizza4.c028a5c4.jpg",
+    "static/media/NonVegPizza5.e2fd7083.jpg": "/static/media/NonVegPizza5.e2fd7083.jpg",
+    "static/media/NonVegPizza6.e37c076f.jpg": "/static/media/NonVegPizza6.e37c076f.jpg",
+    "static/media/NonVegPizza7.0bdc2068.jpg": "/static/media/NonVegPizza7.0bdc2068.jpg",
+    "static/media/Pasta1.ddfc77a4.jpg": "/static/media/Pasta1.ddfc77a4.jpg",
+    "static/media/Pasta2.9f638109.jpg": "/static/media/Pasta2.9f638109.jpg",
+    "static/media/Pasta3.b547dd96.jpg": "/static/media/Pasta3.b547dd96.jpg",
+    "static/media/Pasta4.83f6c862.jpg": "/static/media/Pasta4.83f6c862.jpg",
+    "static/media/VegPizza1.6b0912d2.jpg": "/static/media/VegPizza1.6b0912d2.jpg",
+    "static/media/VegPizza2.116c9547.jpg": "/static/media/VegPizza2.116c9547.jpg",
+    "static/media/VegPizza3.4cdb7327.jpg": "/static/media/VegPizza3.4cdb7327.jpg",
+    "static/media/VegPizza4.647e4dd2.jpg": "/static/media/VegPizza4.647e4dd2.jpg",
+    "static/media/VegPizza5.711751c4.jpg": "/static/media/VegPizza5.711751c4.jpg",
+    "static/media/VegPizza6.bd42e7a8.jpg": "/static/media/VegPizza6.bd42e7a8.jpg",
+    "static/media/VegPizza7.12da3580.jpg": "/static/media/VegPizza7.12da3580.jpg",
+    "static/media/VegPizza8.77ba729a.jpg": "/static/media/VegPizza8.77ba729a.jpg",
+    "static/media/VegPizza9.a5eeeaf9.jpg": "/static/media/VegPizza9.a5eeeaf9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca34c4b5.js",
+    "static/js/2.f9c63f5c.chunk.js",
+    "static/css/main.c36593fd.chunk.css",
+    "static/js/main.369f9ddb.chunk.js"
+  ]
+}
